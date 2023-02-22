@@ -1,3 +1,5 @@
+import 'package:equatable/equatable.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_exam_app/models/product.dart';
 import 'package:flutter_exam_app/repositories/product_repository.dart';

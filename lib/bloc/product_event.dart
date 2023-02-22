@@ -1,17 +1,18 @@
 part of 'product_bloc.dart';
 
+@immutable
 abstract class ProductEvent {}
 
 class ProductEventInitial extends ProductEvent {}
 
 class ProductEventFetch extends ProductEvent {
-  int pageIndex;
+  final int pageIndex;
 
   ProductEventFetch({required this.pageIndex});
 }
 
 class ProductDetailsEventFetch extends ProductEvent {
-  int productId;
+  final int productId;
 
   ProductDetailsEventFetch({required this.productId});
 }
