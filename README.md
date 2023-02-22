@@ -1,12 +1,12 @@
-# flutter_exam_app
+# Flutter Exam App
 
-A new Flutter project.
+Skillset Evaluation Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for the Flutter skillset evaluation.
 
-A few resources to get you started if this is your first Flutter project:
+Following are the 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
